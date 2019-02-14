@@ -32,13 +32,23 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. What is the DOM?
 
+    When a web page is loaded, web browsers use HTML to create DOM, a Document Object Model of the page. DOM can be manipulated using JavaScript to make the web page dynamic.
+
 2. What is an event?
+
+    Examples of HTML events: a user strokes a key, a user clicks the mouse, or the mouse moves over an element.
 
 3. What is an event listener?
 
+    A function that waits for an event to occur.
+
 4. Why would we convert a NodeList into an Array?
 
+    To be able to use array methods: .reduce, .map, .filter
+
 5. What is a component?
+
+    Components are reusable pieces of code that can be used to build elements sharing functionality and styling.
 
 ### Git Set up
 
